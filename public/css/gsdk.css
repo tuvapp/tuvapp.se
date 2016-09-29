@@ -2126,7 +2126,7 @@ input.ct-red + span + label + span.switch-right {
 
 .navbar-transparent {
   padding-top: 15px;
-  background-color: transparent;
+  background-color: #2e93ff;
   border-bottom: 1px solid transparent;
 }
 

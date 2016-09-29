@@ -52,12 +52,12 @@
     <div class="collapse navbar-collapse">
       <ul  class="nav navbar-nav navbar-right">
             <li>
-                <a href="home.html">
+                <a href="/">
                      Hem
                 </a>
             </li>
             <li>
-                <a href="blogg.html">
+                <a href="blogg">
                      Blogg
                 </a>
             </li>
@@ -77,7 +77,6 @@
                   </ul>
             </li>
        </ul>
-
     </div><!-- /.navbar-collapse -->
   </div>
 </nav>

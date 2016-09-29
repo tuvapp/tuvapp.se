@@ -9,7 +9,7 @@
 
 <nav class="cf">
 <div id="li">
-  <li>
+  <a href="resellers"><li>
     <svg class="icon-camera" viewBox="0,0,54,72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
     <g>
         <g id="Icons">
@@ -33,7 +33,7 @@
         </g>
     </g>
   </svg><div><strong>Smart Home</strong><p>Lorem ipsum dolor sit</span></div>
-  </li>
+  </li></a>
   <li>
     <svg class="icon-tv" viewBox="0,0,97,70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
     <g>
