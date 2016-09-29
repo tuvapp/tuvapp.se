@@ -1,0 +1,170 @@
+.select
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+.cf:after {
+  clear: both;
+}
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    margin-bottom: 421px;
+    position: absolute;
+}
+
+
+#li @media (min-width: 642px) {
+  #li svg {
+    position: absolute;
+    bottom: 60%;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+}
+#li .icon-mobile {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+}
+#li @media (min-width: 642px) {
+#li .icon-mobile {
+    width: 40px;
+  }
+}
+#li .icon-mobile .speakerphone,
+#li .icon-mobile .microphone,
+#li .icon-mobile .top-bar,
+#li .icon-mobile .bottom-bar,
+#li .icon-mobile .phone-shell {
+  fill: #808285;
+}
+#li .icon-tv {
+  display: block;
+  margin: 0 auto;
+  width: 54%;
+  height: 54%;
+}
+#li @media (min-width: 642px) {
+#li  .icon-tv {
+    width: 100px;
+  }
+}
+#li .icon-tv .tv-shell,
+#li .icon-tv .stand,
+#li .icon-tv .foot {
+  fill: #808285;
+}
+#li .icon-camera {
+  display: block;
+  margin: 0 auto;
+  width: 29.3%;
+}
+#li @media (min-width: 642px) {
+#li .icon-camera {
+    width: 55px;
+  }
+}
+#li .icon-camera .foot,
+#li .icon-camera .stand,
+#li .icon-camera .big-circle,
+#li .icon-camera .small-circle,
+#li .icon-camera .dot {
+  fill: #808285;
+}
+#li nav {
+  width: 100%;
+  display: block;
+}
+#li li  {
+  position: relative;
+  list-style: none;
+  box-sizing: border-box;
+  border: 1px solid #d6d6d6;
+  border-width: 0 1px 1px 0;
+  float: left;
+  width: 316px;
+  width: 33.3333333333%;
+  padding: 40px 0;
+  background-color: #f1f1f1;
+  text-align: center;
+  font-family: sans-serif;
+  color: #808285;
+  -webkit-transition-property: color background-color;
+  transition-property: color background-color;
+  -webkit-transition-duration: .25s;
+          transition-duration: .25s;
+}
+#li @media (min-width: 642px) {
+  #li li {
+    height: 376px;
+    padding: 80px 0;
+  }
+}
+#li @media (min-width: 642px) {
+#li li div {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+  }
+}
+#li li strong {
+  display: block;
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+@media (min-width: 642px) {
+#li  li strong {
+    font-size: 20px;
+  }
+}
+#li @media (min-width: 768px) {
+  #li li strong {
+    font-size: 30px;
+  }
+}
+#li li span {
+  display: none;
+  font-size: small;
+}
+#li @media (min-width: 642px) {
+#li li span {
+    display: block;
+    font-size: 14px;
+    padding: 15px 30px 0;
+    line-height: 20px;
+  }
+}
+#li @media (min-width: 768px) {
+  #li li span {
+    font-size: 16px;
+    width: 190px;
+    margin: 0 auto;
+  }
+}
+#li li:hover {
+  color: #f1f1f1;
+  background-color: #808285;
+  cursor: pointer;
+}
+#li li:hover .icon-mobile .microphone,
+#li li:hover .icon-mobile .phone-shell,
+#li li:hover .icon-mobile .speakerphone {
+  fill: #f1f1f1;
+}
+#li li:hover .icon-mobile .top-bar,
+#li li:hover .icon-mobile .bottom-bar {
+  stroke: #f1f1f1;
+}
+#li li:hover .icon-tv .tv-shell,
+#li li:hover .icon-tv .stand,
+#li li:hover .icon-tv .foot {
+  fill: #f1f1f1;
+}
+#li li:hover .icon-camera #Icons path {
+  fill: #f1f1f1;
+}
+}

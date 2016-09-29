@@ -1,0 +1,7 @@
+Build by: Emil KArlsson och Rikard Olsson
+
+Build with: laravel framework and bootstrap3
+
+To use with local server in terminal: php artisan serve
+
+www.coptercaps.com

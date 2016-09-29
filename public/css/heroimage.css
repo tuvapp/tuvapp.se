@@ -1,0 +1,98 @@
+.home .background-img{
+  background: #2e93ff;
+  min-height: 840px;
+}
+
+@media only screen and (min-width : 1200px) {
+  #animation{
+    padding: 10px 0 150px;
+    width: 100%;
+    height: 90%;
+    overflow: auto;
+    float: right;
+    align: middle;
+    z-index: 1;
+  }
+  .home .background-img{
+    background: #2e93ff;
+    min-height: 840px;
+  }
+
+}
+@media only screen and (max-width : 1200px) {
+  #animation{
+    padding: 10px 0 150px;
+    width: 100%;
+    height: 90%;
+    overflow: auto;
+    float: right;
+    align: middle;
+    z-index: 1;
+  }
+  .home .background-img{
+    background: #2e93ff;
+    min-height: 700px;
+  }
+
+
+}
+
+@media only screen and (max-width : 979px) {
+  #animation{
+    padding: 10px 0 150px;
+    width: 100%;
+    height: 90%;
+    overflow: auto;
+    float: right;
+    align: middle;
+    z-index: 1;
+  }
+  .home .background-img{
+    background: #2e93ff;
+    min-height: 700px;
+  }
+
+
+}
+
+@media only screen and (max-width : 767px) {
+  #animation{
+    padding: 10px 0 150px;
+    width: 200%;
+    height: 90%;
+    overflow: auto;
+    float: right;
+    align: middle;
+    z-index: 1;
+  }
+  .home .background-img{
+    background: #2e93ff;
+    min-height: 800px;
+  }
+
+
+}
+
+@media only screen and (max-width : 480px) {
+  #animation{
+    padding: 10px 0 150px;
+    width: 350%;
+    height: 90%;
+    overflow: auto;
+    float: right;
+    align: middle;
+    z-index: 1;
+  }
+}
+
+@media only screen and (max-width : 320px) {
+  #animation{
+    width: 200%;
+    height: 90%;
+    height: 90%;
+    overflow: auto;
+    float: right;
+    align: middle;
+    z-index: 1;
+  }
+}
