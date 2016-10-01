@@ -1,8 +1,16 @@
 @extends('master')
 
 @section('content')
+<div
+    <div class="parallax filter-black">
+          <div id="particle-canvas">
+    </div>
+    <div class="small-info">
+        <h1>Creative Tim</h1>
+        <h3>Creative Tim stands for everything a designer looks in his work: clean and beautiful interfaces for great products.</h3>
+    </div>
+</div>
 
-<div id="particle-canvas"></div>
 <nav class="cf">
 <div id="li">
   <a href="resellers"><li>
