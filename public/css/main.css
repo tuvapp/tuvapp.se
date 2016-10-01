@@ -18145,7 +18145,7 @@ input.search-input {
     pointer-events: none
 }
 .welcome-visitor-message {
-    background-color: #297ab4;
+    background-color: #0d4c75;
     margin-top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -18490,7 +18490,7 @@ a.button, .button, input[type=submit] {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background-color: #297ab4;
+    background-color: #0d4c75;
     border: none;
     border-radius: 0;
     box-sizing: border-box;
