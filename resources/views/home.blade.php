@@ -8,6 +8,7 @@
     <div class="small-info">
         <h1>Creative Tim</h1>
         <h3>Creative Tim stands for everything a designer looks in his work: clean and beautiful interfaces for great products.</h3>
+      <center><button class="btn btn-primary btn-lg">Large</button></center>
     </div>
 </div>
 

@@ -14667,7 +14667,7 @@ body, p {
     cursor: default
 }
 h1, h2, h3, h4, h5, h24, h32 {
-    color: #525252;
+    color: #FFF;
     font-weight: 300;
     line-height: 1em;
     margin: .67em 0 .4em;
@@ -14737,7 +14737,7 @@ h24, .h24 {
     }
 }
 a {
-    color: #1c7ece;
+    color: #0d4c75;
     text-decoration: none
 }
 a:hover {
@@ -16860,7 +16860,7 @@ body.sticky .GlobalNav {
     height: 82px;
     width: 82px;
     border-radius: 50%;
-    background-color: #297ab4;
+    background-color: #0d4c75;
     -ms-flex-item-align: center;
     align-self: center;
     -webkit-transition: background-color 0.2s ease-in-out;

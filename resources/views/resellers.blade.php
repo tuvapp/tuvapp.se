@@ -1,16 +1,31 @@
 @extends('master')
 
+<div data-react-class="GlobalNavUserSection" data-react-props="{}"></div>
+
+
+
+<div class='yield'>
+
+<div id='browse-mode'>
+<div class='welcome-visitor-message animated' data-message-cookie='seen_new_visitor_intro'>
+<div class='welcome-header-box'>
+<div class='welcome-header-layout wrapper'>
+<h1>Tuva, The smart and connected communities of the future.</h1>
+<div class='close-button-base close-button-thin close-button-welcome-box js-close-welcome-message'></div>
+</div>
+</div>
+<div class='wrapper'>
+<div class='link-container visitor-welcome'>
+<a class="link-card" href=""><span>Skapa</span> nätverk
+</a><a class="link-card" href="https://ifttt.com/recipes"><span>Använd</span> smarta tjänster
+</a><a class="link-card"href=""><span>Handla</span> enheter
+</a></div>
+</div>
+</div>
+
 @section('content')
-<div class="wrapper">
-    <div class="parallax filter-black">
-        <div class="parallax-image">
-            <img src="img/thumb.jpg" alt="..." />
-        </div>
-        <div class="small-info">
-            <h1>Brace yourself!</h1>
-            <h3>25% Off and Free global delivery for all products</h3>
-        </div>
-    </div>
+
+
 <div class="section">
            <div class="container">
                <h2 class="section-title">Latest Offers</h2>
