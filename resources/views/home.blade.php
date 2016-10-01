@@ -3,10 +3,6 @@
 @section('content')
 
 <div id="particle-canvas"></div>
-<div class="carousel-caption">
-      <h1>Text word1 word2 superlative.</h1>
-</div>
-
 <nav class="cf">
 <div id="li">
   <a href="resellers"><li>

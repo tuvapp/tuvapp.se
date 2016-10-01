@@ -22,6 +22,7 @@
 
 
     <link href="css/line.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
 
 
 
@@ -35,50 +36,28 @@
 
 <body class="home">
 
-<nav class="navbar navbar-inverse navbar-transparent navbar-fixed-top" role="navigation">
-    <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button id="menu-toggle" type="button" class="navbar-toggle">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar bar1"></span>
-        <span class="icon-bar bar2"></span>
-        <span class="icon-bar bar3"></span>
-      </button>
-  <!--    <a class="navbar-brand" href="http://gsdk.creative-tim.com"><i class="fa fa-chevron-left"></i> Back to Kit</a> -->
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse">
-      <ul  class="nav navbar-nav navbar-right">
-            <li>
-                <a href="/">
-                     Hem
-                </a>
-            </li>
-            <li>
-                <a href="blogg">
-                     Blogg
-                </a>
-            </li>
-
-            <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                    Mer
-                    <b class="caret"></b>
-                  </a>
-                  <ul class="dropdown-menu dropdown-with-icons">
-                      <li>
-                        <a href="contact-us.html">
-                             <i class="pe-7s-mail-open-file"></i> Vanliga frågor
-                        </a>
-                    </li>
-
-                  </ul>
-            </li>
-       </ul>
-    </div><!-- /.navbar-collapse -->
-  </div>
+<nav
+<div class='GlobalNav-spacer'></div>
+<div class='GlobalNav js-globalNav'>
+<div data-react-class="GlobalNavMobileSearch" data-react-props="{}"></div>
+<div class='GlobalNav-layout wrapper'>
+<div class='GlobalNav-tabs'>
+<a class="GlobalNavTab GlobalNavTab--home active " href="/"><span class='GlobalNavTab-icon'></span>
+<span class='GlobalNavTab-text'>Hem</span>
+</a><a class="GlobalNavTab GlobalNavTab--explore " href=""><span class='GlobalNavTab-icon'></span>
+<span class='GlobalNavTab-text'>Handla</span>
+</a><a class="GlobalNavTab GlobalNavTab--featured " href=""><span class='GlobalNavTab-icon'></span>
+<span class='GlobalNavTab-text'>Upptäck</span>
+</a></div>
+<div class='GlobalNav-logo'>
+<a href='/' id='lockup'>
+<div id='logo'></div>
+<div class='back-to-top js-back-to-top'></div>
+</a>
+</div>
+<div data-react-class="GlobalNavUserSection" data-react-props="{}"></div>
+</div>
+</div>
 </nav>
 
 @yield('content')
