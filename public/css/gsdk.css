@@ -2376,6 +2376,7 @@ input.ct-red + span + label + span.switch-right {
 
 body {
   position: relative;
+  
 }
 body > .navbar-collapse {
   position: fixed;

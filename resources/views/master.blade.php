@@ -44,7 +44,7 @@
 <div class='GlobalNav-tabs'>
 <a class="GlobalNavTab GlobalNavTab--home active " href="/"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Hem</span>
-</a><a class="GlobalNavTab GlobalNavTab--explore " href=""><span class='GlobalNavTab-icon'></span>
+</a><a class="GlobalNavTab GlobalNavTab--explore " href="resellers"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Handla</span>
 </a><a class="GlobalNavTab GlobalNavTab--featured " href=""><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Upptäck</span>
@@ -72,7 +72,7 @@
                     <nav>
                         <ul>
                             <li>
-                                <a href="home.html" >
+                                <a href="/" >
                                     Hem
                                 </a>
                             </li>
