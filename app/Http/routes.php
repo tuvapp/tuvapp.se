@@ -58,3 +58,6 @@ Route::get('/issue-1', function() {
 Route::get('/about', function() {
 	return view('about');
 });
+Route::get('/developer', function() {
+	return view('developer');
+});

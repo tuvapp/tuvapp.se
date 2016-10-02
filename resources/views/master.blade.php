@@ -56,7 +56,7 @@
 <div class='back-to-top js-back-to-top'></div>
 </a>
 </div>
-<div data-react-class="GlobalNavUserSection" data-react-props="{}"><div class="GlobalNav-userSection"></div><a href=""><span class='GlobalNavTab-text'><u>Start a local community</u></span></a></div></div>
+<div data-react-class="GlobalNavUserSection" data-react-props="{}"><div class="GlobalNav-userSection"></div><a href="app"><span class='GlobalNavTab-text'><u>Start a local community</u></span></a></div></div>
 </div>
 </div>
 </nav>
@@ -180,7 +180,7 @@
                               </a>
                           </li>
                           <li>
-                              <a href="#">
+                              <a href="developer">
                                  Developer
                               </a>
                           </li>
