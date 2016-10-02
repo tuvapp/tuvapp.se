@@ -6,23 +6,16 @@
 <div class='welcome-header-layout wrapper'>
   <h1 style="
       padding-top: 80px;
-  ">Tuva, The smart and connected communities of the future.</h1>
-<div class='close-button-base close-button-thin close-button-welcome-box js-close-welcome-message'></div>
+  ">Tuva Connect</h1>
 </div>
 </div>
-<div class='wrapper'>
-<div class='link-container visitor-welcome'>
-<a class="link-card" href="shop"><span>Smart</span> home
-</a><a class="link-card" href="connect"><span>Connect</span> services
-</a><a class="link-card"href="app"><span>Local</span> community app
-</a></div>
-</div>
+
 </div>
 </div>
 <div class="PageDescription">
 <div class="wrapper">
 <div class="PageDescription--centered">
-Each week, Canopy features beautiful products in hand-curated Issues.
+  Let’s create smart solutions that make everyday life easier. <b>We launch Tuva Connect soon</b>
 </div>
 </div>
 </div>
@@ -31,25 +24,25 @@ Each week, Canopy features beautiful products in hand-curated Issues.
 <div class="section">
 <div class="container">
 <div class="CollectionGrid">
-<a class="CollectionGrid-tile hover-overlay-light" href="/shop/gifts-with-prime"><div class="CollectionGrid-tileImage" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/v1465317720/mcmcyymdgr3vaetajcgd.png); visibility:hidden;"></div>
-<div class="CollectionGrid-tileImage1 align-center" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/c_lpad,w_300,h_300/aupy1s5mklmhnrgvldbn.jpg)"></div>
+<a class="CollectionGrid-tile hover-overlay-light" href="/shop/gifts-with-prime"><div class="CollectionGrid-tileImage" style="background-image: url(); visibility:hidden;"></div>
+<div class="CollectionGrid-tileImage1 align-center" style="background-image: url()"></div>
 <div class="CollectionGrid-tileName js-dotdotdot" style="word-wrap: break-word; white-space: normal;">
-Gifts with Prime
+Smart Alerts
 </div>
-</a><a class="CollectionGrid-tile hover-overlay-light" href="/shop/for-him"><div class="CollectionGrid-tileImage" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/v1465317720/mcmcyymdgr3vaetajcgd.png); visibility:hidden;"></div>
-<div class="CollectionGrid-tileImage1 align-center" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/c_lpad,w_300,h_300/m08bn1hgj2eeqr5n6jwg.jpg)"></div>
+</a><a class="CollectionGrid-tile hover-overlay-light" href="/shop/for-him"><div class="CollectionGrid-tileImage" style="background-image: url(); visibility:hidden;"></div>
+<div class="CollectionGrid-tileImage1 align-center" style="background-image: url()"></div>
 <div class="CollectionGrid-tileName js-dotdotdot" style="word-wrap: break-word; white-space: normal;">
-For Him
+Connected Your home
 </div>
-</a><a class="CollectionGrid-tile hover-overlay-light" href="/shop/for-her"><div class="CollectionGrid-tileImage" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/v1465317720/mcmcyymdgr3vaetajcgd.png); visibility:hidden;"></div>
-<div class="CollectionGrid-tileImage1 align-center" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/c_lpad,w_300,h_300/auixgof28o6evcazqwpb.jpg)"></div>
+</a><a class="CollectionGrid-tile hover-overlay-light" href="/shop/for-her"><div class="CollectionGrid-tileImage" style="background-image: url(); visibility:hidden;"></div>
+<div class="CollectionGrid-tileImage1 align-center" style="background-image: url()"></div>
 <div class="CollectionGrid-tileName js-dotdotdot" style="word-wrap: break-word; white-space: normal;">
-For Her
+Keep in Touch
 </div>
-</a><a class="CollectionGrid-tile hover-overlay-light" href="/shop/for-kids"><div class="CollectionGrid-tileImage" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/v1465317720/mcmcyymdgr3vaetajcgd.png); visibility:hidden;"></div>
-<div class="CollectionGrid-tileImage1 align-center" style="background-image: url(https://res.cloudinary.com/hcu8jcnmr/image/upload/c_lpad,w_300,h_300/ohqwwtubi6m62ilofk3g.jpg)"></div>
+</a><a class="CollectionGrid-tile hover-overlay-light" href="/shop/for-kids"><div class="CollectionGrid-tileImage" style="background-image: url(); visibility:hidden;"></div>
+<div class="CollectionGrid-tileImage1 align-center" style="background-image: url()"></div>
 <div class="CollectionGrid-tileName js-dotdotdot" style="word-wrap: break-word; white-space: normal;">
-For Kids
+More
 </div>
 </div>
 </div>

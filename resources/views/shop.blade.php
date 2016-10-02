@@ -5,7 +5,7 @@
 <div class='welcome-header-layout wrapper'>
   <h1 style="
       padding-top: 80px;
-  ">Tuva, The smart and connected communities of the future.</h1>
+  ">Discover smart devices in one place. Buy securely through Amazon.</h1>
 <div class='close-button-base close-button-thin close-button-welcome-box js-close-welcome-message'></div>
 </div>
 </div>
