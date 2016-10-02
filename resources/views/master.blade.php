@@ -7,7 +7,7 @@
 	<link rel="icon" type="image/png" sizes="96x96" href="img/favicon.png">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-	<title>Coptercaps - Vi utvecklar appar och webb i Jönköping</title>
+	<title>Tuva - A smart and connected local community</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 
@@ -43,11 +43,11 @@
 <div class='GlobalNav-layout wrapper'>
 <div class='GlobalNav-tabs'>
 <a class="GlobalNavTab GlobalNavTab--home active " href="/"><span class='GlobalNavTab-icon'></span>
-<span class='GlobalNavTab-text'>Hem</span>
-</a><a class="GlobalNavTab GlobalNavTab--explore " href="handla"><span class='GlobalNavTab-icon'></span>
-<span class='GlobalNavTab-text'>Handla</span>
-</a><a class="GlobalNavTab GlobalNavTab--featured " href="upptack"><span class='GlobalNavTab-icon'></span>
-<span class='GlobalNavTab-text'>Upptäck</span>
+<span class='GlobalNavTab-text'>Home</span>
+</a><a class="GlobalNavTab GlobalNavTab--explore " href="shop"><span class='GlobalNavTab-icon'></span>
+<span class='GlobalNavTab-text'>Shop</span>
+</a><a class="GlobalNavTab GlobalNavTab--featured " href="explore"><span class='GlobalNavTab-icon'></span>
+<span class='GlobalNavTab-text'>Explore</span>
 </a></div>
 <div class='GlobalNav-logo'>
 <a href='/' id='lockup'>
@@ -68,12 +68,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-2">
-                    <h5 class="title">Företaget</h5>
+                    <h5 class="title">Company</h5>
                     <nav>
                         <ul>
                             <li>
                                 <a href="/" >
-                                    Hem
+                                    Home
                                 </a>
                             </li>
                         <!--    <li>
@@ -86,12 +86,12 @@
                     </nav>
                 </div>
              <div class="col-md-3 col-md-offset-1">
-                    <h5 class="title">Biblotek</h5>
+                    <h5 class="title">Libary</h5>
                     <nav>
                         <ul>
                             <li>
                                 <a href="#">
-                                   Blogg
+                                   Blog
                                 </a>
                             </li>
                         </ul>
@@ -99,7 +99,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <h5 class="title"> Coptercaps Labs</h5>
+                    <h5 class="title"></h5>
                     <nav>
                         <ul>
                             <li>
@@ -113,7 +113,7 @@
                 </div>
 
                  <div class="col-md-3">
-                    <h5 class="title">Kontakt</h5>
+                    <h5 class="title">Contact</h5>
                     <nav>
                         <ul>
                             <li>
@@ -137,7 +137,7 @@
             </div>
             <hr />
             <div class="social-area text-center">
-                <h5>Sociala kanaler</h5>
+                <h5>Social</h5>
                 <a href="#" class="btn btn-social btn-round btn-facebook">
                     <i class="fa fa-facebook"></i>
                 </a>
@@ -154,7 +154,7 @@
 
             </div>
             <div class="copyright">
-                &copy; 2016 Coptercaps, skapad med kärlek
+                &copy; 2016 Tuva Sweden AB
             </div>
         </div>
     </footer>

@@ -17,16 +17,16 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/handla', function() {
-	return view('handla');
+Route::get('/shop', function() {
+	return view('shop');
 });
 
-Route::get('/upptack', function() {
-	return view('upptack');
+Route::get('/explore', function() {
+	return view('explore');
 });
 
-Route::get('/customers', function() {
-	return view('customers');
+Route::get('/connect', function() {
+	return view('connect');
 });
 
 // Using controller to handle post
@@ -40,8 +40,8 @@ Route::post('/order', 'OrderController@send');
 
 
 // --------------------------- IN FOOTER ----//
-Route::get('/projekt', function() {
-	return view('projekt');
+Route::get('/app', function() {
+	return view('app');
 });
 Route::get('/company', function() {
 	return view('company');

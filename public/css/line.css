@@ -39,7 +39,7 @@
 #li .icon-mobile .top-bar,
 #li .icon-mobile .bottom-bar,
 #li .icon-mobile .phone-shell {
-  fill: #808285;
+  fill: #adadad;
 }
 #li .icon-tv {
   display: block;
@@ -55,7 +55,7 @@
 #li .icon-tv .tv-shell,
 #li .icon-tv .stand,
 #li .icon-tv .foot {
-  fill: #808285;
+  fill: #adadad;
 }
 #li .icon-camera {
   display: block;
@@ -72,7 +72,7 @@
 #li .icon-camera .big-circle,
 #li .icon-camera .small-circle,
 #li .icon-camera .dot {
-  fill: #808285;
+  fill: #adadad;
 }
 #li nav {
   width: 100%;
@@ -88,10 +88,10 @@
   width: 316px;
   width: 33.3333333333%;
   padding: 40px 0;
-  background-color: #f1f1f1;
+  background-color: #fff;
   text-align: center;
   font-family: sans-serif;
-  color: #808285;
+  color: #adadad;
   -webkit-transition-property: color background-color;
   transition-property: color background-color;
   -webkit-transition-duration: .25s;
@@ -146,8 +146,8 @@
   }
 }
 #li li:hover {
-  color: #f1f1f1;
-  background-color: #808285;
+  color: #adadad;
+  background-color: #adadad;
   cursor: pointer;
 }
 #li li:hover .icon-mobile .microphone,
