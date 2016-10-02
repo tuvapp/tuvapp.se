@@ -11,7 +11,7 @@
   padding-left: 5px;
   font-weight: 700;
 ">A smart and connected local community</h1>
-        <h3>Tuva is a the smart, connected, community of the future, that <b>make everyday life easier</b></h3>
+        <h3>People use Tuva to build a smart and connected community of the future, that <b>make everyday life easier.</b></h3>
             <br>
 
   <center><button class="btn btn-primary btn-lg">Start a free local community</button></center>

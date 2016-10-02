@@ -8,7 +8,7 @@
 ">
 <div class="wrapper">
 <div class="PageDescription--centered">
-Each week, Canopy features beautiful products in hand-curated Issues.
+Each week, Tuva presents one solution to a common problem.
 </div>
 </div>
 </div>
@@ -17,13 +17,13 @@ Each week, Canopy features beautiful products in hand-curated Issues.
 <div class="FlexRow">
 <div class="IssueCard-titleContainer">
 <div class="IssueMeta-subtitle">
-Issue 63
+Issue 2
 </div>
 <h1 class="IssueMeta-title js-issueTitle">
 Get Well
 </h1>
 <div class="IssueMeta-datestamp">
-September 27th, 2016
+September 14th, 2016
 </div>
 
 </div>
@@ -35,7 +35,7 @@ September 27th, 2016
 <div class="FlexRow">
 <div class="IssueCard-titleContainer">
 <div class="IssueMeta-subtitle">
-Issue 62
+Issue 1
 </div>
 <h1 class="IssueMeta-title js-issueTitle">
 HomeKit

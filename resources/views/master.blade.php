@@ -135,7 +135,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="about">
+                                <a href="">
                                     Jobs
                                 </a>
                             </li>
@@ -152,7 +152,7 @@
                     <nav>
                         <ul>
                             <li>
-                                <a href="#">
+                                <a href="contact">
                                    Contact Us
                                 </a>
                             </li>
@@ -182,6 +182,11 @@
                           <li>
                               <a href="developer">
                                  Developer
+                              </a>
+                          </li>
+                          <li>
+                              <a href="developer">
+                                 Blog
                               </a>
                           </li>
                       </ul>
