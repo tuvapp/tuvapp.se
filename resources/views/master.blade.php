@@ -135,6 +135,11 @@
                                 </a>
                             </li>
                             <li>
+                                <a href="about">
+                                    Jobs
+                                </a>
+                            </li>
+                            <li>
                                 <a href="">
                                     Press Kit
                                 </a>
@@ -166,22 +171,17 @@
                 </div>
 
                 <div class="col-md-3">
-                  <h5 class="title"><b>Help and Support</b></h5>
+                  <h5 class="title"><b>Handy links</b></h5>
                   <nav>
                       <ul>
                           <li>
-                              <a href="#">
-                                 Contact Us
+                              <a href="app">
+                                 Download apps
                               </a>
                           </li>
                           <li>
                               <a href="#">
-                                 How it works
-                              </a>
-                          </li>
-                          <li>
-                              <a href="#">
-                                  Terms & Conditions
+                                 Developer
                               </a>
                           </li>
                       </ul>
