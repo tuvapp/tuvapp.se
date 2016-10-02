@@ -13,7 +13,7 @@
 <div class='link-container visitor-welcome'>
 <a class="link-card" href="shop"><span>Smart</span> home
 </a><a class="link-card" href="connect"><span>Connect</span> services
-</a><a class="link-card"href="app"><span>Local</span> community app
+</a><a class="link-card"href="app"><span>Free</span> local community
 </a></div>
 </div>
 </div>
