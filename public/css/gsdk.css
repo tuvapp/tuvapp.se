@@ -253,13 +253,13 @@ input.ct-red + span + label + span.switch-right {
 
 .btn {
   border-width: 2px;
-  background-color: transparent;
+  background-color: #007ee5;
   font-weight: 400;
   opacity: 0.8;
   filter: alpha(opacity=80);
   padding: 8px 16px;
-  border-color: #888888;
-  color: #888888;
+  border-color: #007ee5;
+  color: #007ee5;
 }
 .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover, .open > .btn.dropdown-toggle, .open > .btn.dropdown-toggle:focus, .open > .btn.dropdown-toggle:hover {
   background-color: transparent;
@@ -301,8 +301,8 @@ input.ct-red + span + label + span.switch-right {
 }
 
 .btn-primary {
-  border-color: #3472F7;
-  color: #3472F7;
+  border-color: #007ee5;
+  color: #007ee5;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover, .open > .btn-primary.dropdown-toggle, .open > .btn-primary.dropdown-toggle:focus, .open > .btn-primary.dropdown-toggle:hover {
   background-color: transparent;
@@ -514,10 +514,11 @@ input.ct-red + span + label + span.switch-right {
 }
 
 .btn-lg {
-  font-size: 18px;
+  font-size: 25px;
+  color: white;
   border-radius: 6px;
   padding: 14px 30px;
-  font-weight: 400;
+  font-weight: 700;
 }
 .btn-lg.btn-round {
   padding: 15px 30px;
@@ -2376,7 +2377,7 @@ input.ct-red + span + label + span.switch-right {
 
 body {
   position: relative;
-  
+
 }
 body > .navbar-collapse {
   position: fixed;

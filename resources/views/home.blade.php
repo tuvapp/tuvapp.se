@@ -6,8 +6,13 @@
           <div id="particle-canvas">
     </div>
     <div class="small-info">
-        <h1>Creative Tim</h1>
+      <h1 style="
+  padding-right: 5px;
+  padding-left: 5px;
+  font-weight: 700;
+">A smart and connected local community</h1>
         <h3>Creative Tim stands for everything a designer looks in his work: clean and beautiful interfaces for great products.</h3>
+        <br>
       <center><button class="btn btn-primary btn-lg">Large</button></center>
     </div>
 </div>

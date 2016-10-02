@@ -44,9 +44,9 @@
 <div class='GlobalNav-tabs'>
 <a class="GlobalNavTab GlobalNavTab--home active " href="/"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Hem</span>
-</a><a class="GlobalNavTab GlobalNavTab--explore " href="resellers"><span class='GlobalNavTab-icon'></span>
+</a><a class="GlobalNavTab GlobalNavTab--explore " href="handla"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Handla</span>
-</a><a class="GlobalNavTab GlobalNavTab--featured " href=""><span class='GlobalNavTab-icon'></span>
+</a><a class="GlobalNavTab GlobalNavTab--featured " href="upptack"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Upptäck</span>
 </a></div>
 <div class='GlobalNav-logo'>

@@ -14674,7 +14674,7 @@ h1, h2, h3, h4, h5, h24, h32 {
     display: block
 }
 h1 {
-    font-size: 65px;
+    font-size: 55px;
     margin: .67em 0 .4em
 }
 @media only screen and (max-width: 540px) {
@@ -16870,7 +16870,7 @@ body.sticky .GlobalNav {
     display: block
 }
 #lockup:hover {
-    background-color: #39ac95
+    background-color: #0d4c75
 }
 #lockup:focus {
     outline: none
@@ -18161,7 +18161,7 @@ input.search-input {
 .welcome-visitor-message .welcome-header-box {
     padding: 100px 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.8);
-    max-width: 100%;
+    max-width: 1200px;
     margin: 0 auto
 }
 @media only screen and (max-width: 985px) {
