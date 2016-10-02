@@ -1,4 +1,5 @@
 @extends('master')
+
 <div id='browse-mode'>
 <div class='welcome-visitor-message animated' data-message-cookie='seen_new_visitor_intro'>
 <div class='welcome-header-box'>
@@ -11,10 +12,17 @@
 </div>
 <div class='wrapper'>
 <div class='link-container visitor-welcome'>
-<a class="link-card" href=""><span>Skapa</span> nätverk
-</a><a class="link-card" href="https://ifttt.com/recipes"><span>Använd</span> smarta tjänster
-</a><a class="link-card"href=""><span>Handla</span> enheter
+<a class="link-card" href="shop"><span>Smart</span> home
+</a><a class="link-card" href="connect"><span>Connect</span> services
+</a><a class="link-card"href="app"><span>Local</span> community app
 </a></div>
+</div>
+</div>
+</div>
+<div class="PageDescription">
+<div class="wrapper">
+<div class="PageDescription--centered">
+Each week, Canopy features beautiful products in hand-curated Issues.
 </div>
 </div>
 </div>

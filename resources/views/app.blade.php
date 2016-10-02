@@ -11,9 +11,9 @@
 </div>
 <div class='wrapper'>
 <div class='link-container visitor-welcome'>
-<a class="link-card" href=""><span>Skapa</span> nätverk
-</a><a class="link-card" href="https://ifttt.com/recipes"><span>Använd</span> smarta tjänster
-</a><a class="link-card"href=""><span>Handla</span> enheter
+<a class="link-card" href="shop"><span>Smart</span> home
+</a><a class="link-card" href="connect"><span>Connect</span> services
+</a><a class="link-card"href="app"><span>Local</span> community app
 </a></div>
 </div>
 </div>
