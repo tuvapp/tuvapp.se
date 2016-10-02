@@ -11,10 +11,10 @@
   padding-left: 5px;
   font-weight: 700;
 ">A smart and connected local community</h1>
-        <h3>Creative Tim stands for everything a designer looks in his work: clean and beautiful interfaces for great products.</h3>
+        <h3>Tuva is a the smart, connected, community of the future,that make everyday life easier.</h3>
             <br>
 
-  <center><button class="btn btn-primary btn-lg">Start a local community</button></center>
+  <center><button class="btn btn-primary btn-lg">Start a free local community</button></center>
 </div>
 </div>
 </div>
