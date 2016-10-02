@@ -2,19 +2,21 @@
 
 @section('content')
 <div
-    <div class="parallax filter-black">
-          <div id="particle-canvas">
-    </div>
-    <div class="small-info">
+  <div class="parallax filter-black">
+          <a href="app"><div id="particle-canvas">
+    </div></a>
+  <div class="small-info">
       <h1 style="
   padding-right: 5px;
   padding-left: 5px;
   font-weight: 700;
 ">A smart and connected local community</h1>
         <h3>Creative Tim stands for everything a designer looks in his work: clean and beautiful interfaces for great products.</h3>
-        <br>
-      <center><button class="btn btn-primary btn-lg">Start a local community</button></center>
-    </div>
+            <br>
+
+  <center><button class="btn btn-primary btn-lg">Start a local community</button></center>
+</div>
+</div>
 </div>
 
 <nav class="cf">
