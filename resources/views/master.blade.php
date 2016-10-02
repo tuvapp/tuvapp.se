@@ -39,36 +39,79 @@
 <nav
 <div class='GlobalNav-spacer'></div>
 <div class='GlobalNav js-globalNav'>
-<div data-react-class="GlobalNavMobileSearch" data-react-props="{}"></div>
 <div class='GlobalNav-layout wrapper'>
 <div class='GlobalNav-tabs'>
 <a class="GlobalNavTab GlobalNavTab--home active " href="/"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Home</span>
 </a><a class="GlobalNavTab GlobalNavTab--explore " href="shop"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Shop</span>
-</a><a class="GlobalNavTab GlobalNavTab--featured " href="explore"><span class='GlobalNavTab-icon'></span>
+</a>
+<a class="GlobalNavTab GlobalNavTab--featured " href="explore"><span class='GlobalNavTab-icon'></span>
 <span class='GlobalNavTab-text'>Explore</span>
-</a></div>
+</a>
+</div>
 <div class='GlobalNav-logo'>
 <a href='/' id='lockup'>
 <div id='logo'></div>
 <div class='back-to-top js-back-to-top'></div>
 </a>
 </div>
-<div data-react-class="GlobalNavUserSection" data-react-props="{}"></div>
+<div data-react-class="GlobalNavUserSection" data-react-props="{}"><div class="GlobalNav-userSection"></div><a href=""><span class='GlobalNavTab-text'><u>Start a local community</u></span></a></div></div>
 </div>
 </div>
 </nav>
 
 @yield('content')
 
-<footer class="footer footer-big">
-        <!-- .footer-black is another class for the footer, for the transparent version, we recommend you to change the url of the image with your favourite image.          -->
-
+<footer class="footer footer-big footer-default">
         <div class="container">
             <div class="row">
                 <div class="col-md-2">
-                    <h5 class="title">Company</h5>
+                     <div class="form-group">
+                        <select name="huge" class="selectpicker" data-style="btn-default btn-block" data-menu-style="dropdown-blue">
+                          <option value="en" selected="">English</option>
+                        </select>
+                    </div>
+              <!--      <div class="form-group">
+                        <select name="huge" class="selectpicker" data-style="btn-default btn-block" data-menu-style="dropdown-blue">
+                          <option value="ARS">ARS</option>
+                          <option value="AUD">AUD</option>
+                          <option value="BRL">BRL</option>
+                          <option value="CAD">CAD</option>
+                          <option value="CHF">CHF</option>
+                          <option value="CNY">CNY</option>
+                          <option value="CZK">CZK</option>
+                          <option value="DKK">DKK</option>
+                          <option value="EUR">EUR</option>
+                          <option value="GBP">GBP</option>
+                          <option value="HKD">HKD</option>
+                          <option value="HUF">HUF</option>
+                          <option value="IDR">IDR</option>
+                          <option value="ILS">ILS</option>
+                          <option value="INR">INR</option>
+                          <option value="JPY">JPY</option>
+                          <option value="KRW">KRW</option>
+                          <option value="MYR">MYR</option>
+                          <option value="MXN">MXN</option>
+                          <option value="NOK">NOK</option>
+                          <option value="NZD">NZD</option>
+                          <option value="PHP">PHP</option>
+                          <option value="PLN">PLN</option>
+                          <option value="RUB">RUB</option>
+                          <option value="SEK">SEK</option>
+                          <option value="SGD">SGD</option>
+                          <option value="TWD">TWD</option>
+                          <option value="USD" selected="">USD</option>
+                          <option value="VND">VND</option>
+                          <option value="ZAR">ZAR</option>
+
+                        </select>
+                    </div>
+                  -->
+
+                </div>
+                <div class="col-md-2 col-md-offset-1">
+                    <h5 class="title"><b>Company</b></h5>
                     <nav>
                         <ul>
                             <li>
@@ -76,22 +119,46 @@
                                     Home
                                 </a>
                             </li>
-                        <!--    <li>
-                                <a href="projekt.html">
-                                    Projekt
+                            <li>
+                                <a href="shop">
+                                   Shop
                                 </a>
                             </li>
-                        -->
+                            <li>
+                                <a href="explore">
+                                    Explore
+                                </a>
+                            </li>
+                            <li>
+                                <a href="about">
+                                    About
+                                </a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    Press Kit
+                                </a>
+                            </li>
                         </ul>
                     </nav>
                 </div>
-             <div class="col-md-3 col-md-offset-1">
-                    <h5 class="title">Libary</h5>
+                <div class="col-md-3 col-md-offset-1">
+                    <h5 class="title"><b>Help and Support</b></h5>
                     <nav>
                         <ul>
                             <li>
                                 <a href="#">
-                                   Blog
+                                   Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                   How it works
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Terms & Conditions
                                 </a>
                             </li>
                         </ul>
@@ -99,62 +166,42 @@
                 </div>
 
                 <div class="col-md-3">
-                    <h5 class="title"></h5>
-                    <nav>
-                        <ul>
-                            <li>
-                                <a href="#">
-
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-
-                </div>
-
-                 <div class="col-md-3">
-                    <h5 class="title">Contact</h5>
-                    <nav>
-                        <ul>
-                            <li>
-                                <a href="tel:++46703726965" >
-                                   <i class="fa fa-phone"></i> <b>Ring oss på +46703726965</b>
-                                   Så pratar vi appar och annat spännande
-                                   <hr class="hr-small">
-                                </a>
-                            </li>
-                            <li>
-                                  <a href="mailto:emil@coptercaps.se?Subject=ahoy" >
-                                   <i class="fa fa-envelope"></i>
-                                   Maila oss gärna <b> emil@coptercaps.se</b>! Vi ser fram emot att höra från dig
-                                </a>
-                            </li>
-
-                        </ul>
-                    </nav>
+                  <h5 class="title"><b>Help and Support</b></h5>
+                  <nav>
+                      <ul>
+                          <li>
+                              <a href="#">
+                                 Contact Us
+                              </a>
+                          </li>
+                          <li>
+                              <a href="#">
+                                 How it works
+                              </a>
+                          </li>
+                          <li>
+                              <a href="#">
+                                  Terms & Conditions
+                              </a>
+                          </li>
+                      </ul>
+                  </nav>
                 </div>
 
             </div>
             <hr />
-            <div class="social-area text-center">
-                <h5>Social</h5>
-                <a href="#" class="btn btn-social btn-round btn-facebook">
+             <div class="social-area text-center">
+                <h5>Join us on</h5>
+                <a href="#" class="btn btn-social btn-round">
                     <i class="fa fa-facebook"></i>
                 </a>
-<!--                <a href="#"  class="btn btn-social btn-round btn-twitter">
-                    <i class="fa fa-instagram"></i>
+                <a href="#"  class="btn btn-social btn-round">
+                    <i class="fa fa-twitter"></i>
                 </a>
-                <a href="#" class="btn btn-social btn-round">
-                    <i class="fa fa-medium"></i>
-                </a>
-                <a href="#" class="btn btn-social btn-round btn-pinterest">
-                    <i class="fa fa-pinterest"></i>
-                </a>
--->
 
             </div>
             <div class="copyright">
-                &copy; 2016 Tuva Sweden AB
+                &copy; 2016 Creative Tim, made with love
             </div>
         </div>
     </footer>

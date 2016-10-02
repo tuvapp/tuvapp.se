@@ -51,10 +51,10 @@ Route::get('/library', function() {
 	return view('library');
 });
 
-Route::get('/media', function() {
-	return view('media');
+Route::get('/issue-1', function() {
+	return view('issue-1');
 });
 
-Route::get('/resellers', function() {
-	return view('resellers');
+Route::get('/about', function() {
+	return view('about');
 });

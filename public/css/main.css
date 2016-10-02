@@ -17316,12 +17316,12 @@ a.GlobalNav-cancelMobileSearch {
 }
 .GlobalNav-signupButton {
     border: none;
-    border-radius: 50px;
+    border-radius: 5px;
     box-sizing: border-box;
     cursor: pointer;
-    line-height: 30px;
-    font-size: 15px;
-    height: 30px;
+    line-height: 40px;
+    font-size: 20px;
+    height: 40px;
     position: relative;
     padding: 0 20px 0;
     text-decoration: none;
@@ -17330,7 +17330,7 @@ a.GlobalNav-cancelMobileSearch {
     -ms-user-select: none;
     user-select: none;
     margin: 0 2px;
-    background-color: #2fdab8;
+    background-color: #0d4c75;
     color: white;
     font-weight: 500;
     -moz-osx-font-smoothing: initial;

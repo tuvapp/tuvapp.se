@@ -13,7 +13,7 @@
 ">A smart and connected local community</h1>
         <h3>Creative Tim stands for everything a designer looks in his work: clean and beautiful interfaces for great products.</h3>
         <br>
-      <center><button class="btn btn-primary btn-lg">Large</button></center>
+      <center><button class="btn btn-primary btn-lg">Start a local community</button></center>
     </div>
 </div>
 
@@ -75,7 +75,7 @@
             </g>
         </g>
     </g>
-  </svg><div><strong>Community</strong><p></p></div>
+  </svg><div><strong>Local community</strong><p></p></div>
 </li></a>
 </div>
 </nav>
