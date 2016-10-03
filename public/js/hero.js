@@ -8,7 +8,7 @@
 var canvasDiv = document.getElementById('particle-canvas');
 var options = {
   particleColor: '#FFF',
-  background: 'img/tuvapp_hero.png',
+  background: 'http://res.cloudinary.com/dwyfhxnhz/image/upload/v1475473047/tuvapp_hero_nhozyp.png',
   interactive: true,
   speed: 'medium',
   density: 'high'
