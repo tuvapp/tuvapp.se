@@ -1,7 +1,6 @@
 @extends('master')
 
 @section('content')
-<div class="row">
 <div
   <div class="parallax filter-black">
           <a href="app"><div id="particle-canvas">
@@ -14,10 +13,7 @@
 ">A smart and connected local community</h1>
         <h3>People use Tuva to build a smart and connected community of the future, that <b>make everyday life easier.</b></h3>
             <br>
-<div class="col-sm-12">
   <center><button class="btn btn-primary btn-lg">Start a free local community</button></center>
-</div>
-</div>
 </div>
 </div>
 </div>
