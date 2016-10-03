@@ -14679,7 +14679,7 @@ h1 {
 }
 @media only screen and (max-width: 540px) {
     h1 {
-        font-size: 40px
+        font-size: 30px
     }
 }
 h2 {
@@ -14690,8 +14690,8 @@ h2 {
     transition: font-size 0.2s ease-in-out
 }
 h3 {
-    font-size: 2em;
-    line-height: 1.2
+    font-size: 1.5em;
+    line-height: 1
 }
 h4 {
     font-size: 1.2em

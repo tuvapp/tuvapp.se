@@ -140,7 +140,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="">
+                                <a href="https://drive.google.com/drive/folders/0ByeT1BL-m3oIZHo1c21ZRlo1ZUk">
                                     Press Kit
                                 </a>
                             </li>
